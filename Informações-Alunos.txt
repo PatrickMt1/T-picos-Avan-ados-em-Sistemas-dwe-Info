@@ -1,4 +1,4 @@
-https://github.com/PatrickMt1/Detectron2.git
+https://github.com/PatrickMt1/T-picos-Avan-ados-em-Sistemas-dwe-Info.git
 
 BOA NOITE PROFESSOR, O GITHUB NÃO ESTÁ ACEITANDO O ARQUIVO COM MAIS DE 25MB, ESTOU ENVIANDO O LUNK DO REPOSTÓRIO COM O DETECTRON2, RELATÓRIO. 
 A PASTA COM DATASET ESTOU ENVIANDO PELO BLOG.
